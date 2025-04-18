@@ -11,3 +11,5 @@ module.exports = {
 /* 2nd way to export */
 // exports.add = (a, b) => a + b;
 // exports.sub = (a, b) => a - b;
+
+// module.exports🤡     exports.fn🗿
